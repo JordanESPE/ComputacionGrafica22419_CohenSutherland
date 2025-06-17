@@ -1,0 +1,10 @@
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\obj\Debug\GuamanJordan_ Cohen-Sutherland.csproj.AssemblyReference.cache
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\obj\Debug\GuamanJordan__Cohen_Sutherland.Properties.Resources.resources
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\obj\Debug\GuamanJordan_ Cohen-Sutherland.csproj.GenerateResource.cache
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\obj\Debug\GuamanJordan_ Cohen-Sutherland.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\bin\Debug\GuamanJordan_ Cohen-Sutherland.exe.config
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\bin\Debug\GuamanJordan_ Cohen-Sutherland.exe
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\bin\Debug\GuamanJordan_ Cohen-Sutherland.pdb
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\obj\Debug\GuamanJordan_ Cohen-Sutherland.exe
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\obj\Debug\GuamanJordan_ Cohen-Sutherland.pdb
+C:\Users\Jordan Guaman\Desktop\GuamanJordan_Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\GuamanJordan_ Cohen-Sutherland\obj\Debug\GraphicalProcessing.CFrmCohenSutherlandVisualization.resources
